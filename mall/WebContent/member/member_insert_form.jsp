@@ -37,10 +37,16 @@
 		<div class="row">
 			<div class="col-sm-3">
 				<ul>
-					<li><a href="/mall/index.jsp"> 홈으로 </a></li>
-					<li><i class="fas fa-thumbs-up"> <a
-							href="/mall/addMemberForm.jsp"> 회원가입 </a>
-					</i></li>
+					<li>
+						<a href="/mall/index.jsp"> 홈으로 </a></li>
+					<li>
+						<i class="fas fa-thumbs-up"> 
+							<a href="/member/member_insert_form.jsp"> 회원가입 </a>
+						</i>
+					</li>
+					<li>
+  						<a href = "/mall/member/login.jsp"> 로그인 </a>
+  					</li>
 				</ul>
 			</div>
 			<div class="col-sm-9">

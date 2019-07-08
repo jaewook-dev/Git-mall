@@ -35,8 +35,18 @@
   						</i>
   					</li>
   					<li>
-  						<a href = "/mall/member/addMemberForm.jsp"> 회원가입 </a>
+  						<a href = "/mall/member/member_insert_form.jsp"> 회원가입 </a>
   					</li>
+  					<li>
+  						<a href = "/mall/member/login.jsp"> 로그인 </a>
+  					</li>
+  					<li>
+  						<a href = "/mall/goods/goods_insert_form.jsp"> 상품 등록 </a>
+  					</li>
+  					<li>
+  						<a href = "/mall/board/board_insert_form.jsp"> 게시글 등록 </a>
+  					</li>
+  					
   				</ul>
   			</div>
  			<div class="col-sm-9">
