@@ -13,6 +13,7 @@
 		background : grey;
 	}
 </style>
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
 
 <!-- jQuery library -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
@@ -26,10 +27,12 @@
 <body>
 	<div class = "container">
 		<div class="row">
-  			<div class="col-sm-3 sidebar-bg">
+  			<div class="col-sm-3">
   				<ul>
   					<li>
-  						<a href = "/mall/index.jsp"> 홈으로 </a>
+  						<i class="fas fa-thumbs-up">
+  							<a href = "/mall/index.jsp"> 홈으로 </a>
+  						</i>
   					</li>
   					<li>
   						<a href = "/mall/member/addMemberForm.jsp"> 회원가입 </a>
