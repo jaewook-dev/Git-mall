@@ -46,7 +46,6 @@
   					<li>
   						<a href = "/mall/board/board_insert_form.jsp"> 게시글 등록 </a>
   					</li>
-  					
   				</ul>
   			</div>
  			<div class="col-sm-9">

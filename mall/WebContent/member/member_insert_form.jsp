@@ -35,20 +35,22 @@
 <body>
 	<div class="container">
 		<div class="row">
+			<!-- 목록 -->
 			<div class="col-sm-3">
 				<ul>
-					<li>
-						<a href="/mall/index.jsp"> 홈으로 </a></li>
+					<li><a href="/mall/index.jsp"> 홈으로 </a></li>
 					<li>
 						<i class="fas fa-thumbs-up"> 
 							<a href="/member/member_insert_form.jsp"> 회원가입 </a>
 						</i>
 					</li>
-					<li>
-  						<a href = "/mall/member/login.jsp"> 로그인 </a>
-  					</li>
+					<li><a href="/mall/member/login.jsp"> 로그인 </a></li>
+					<li><a href="/mall/goods/goods_insert_form.jsp"> 상품 등록 </a></li>
+					<li><a href="/mall/board/board_insert_form.jsp"> 게시글 등록 </a></li>
 				</ul>
 			</div>
+
+			<!-- 내용 -->
 			<div class="col-sm-9">
 				<div class="jumbotron">
 					<h1>회원가입 폼</h1>
