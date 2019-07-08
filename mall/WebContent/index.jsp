@@ -7,6 +7,13 @@
 <!-- Latest compiled and minified CSS -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
 
+<!-- Style -->
+<style>
+	.sidebar-bg {
+		background : grey;
+	}
+</style>
+
 <!-- jQuery library -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 
@@ -19,7 +26,7 @@
 <body>
 	<div class = "container">
 		<div class="row">
-  			<div class="col-sm-3">
+  			<div class="col-sm-3 sidebar-bg">
   				<ul>
   					<li>
   						<a href = "/mall/index.jsp"> È¨À¸·Î </a>
