@@ -31,6 +31,9 @@
   					<li>
   						<a href = "/mall/index.jsp"> 홈으로 </a>
   					</li>
+  					<li>
+  						<a href = "/mall/member/addMemberForm.jsp"> 회원가입 </a>
+  					</li>
   				</ul>
   			</div>
  			<div class="col-sm-9">
@@ -39,8 +42,7 @@
   					<p> 우리 쇼핑몰은</p> 
 				</div>
  			</div>
-  	
-</div>
+		</div>
 	</div>
 </body>
 </html>
